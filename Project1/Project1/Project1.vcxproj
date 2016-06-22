@@ -18,9 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\VLSI.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{72D57549-5487-44B6-9DCD-3DA4F9DE2038}</ProjectGuid>
     <RootNamespace>Project1</RootNamespace>

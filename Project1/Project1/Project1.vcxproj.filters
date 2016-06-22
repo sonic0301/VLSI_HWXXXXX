@@ -17,9 +17,4 @@
       <UniqueIdentifier>{f0e60c21-3d40-4b65-a841-f464fa4abf9c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\VLSI.cpp">
-      <Filter>VLSI_HWXXXXXX</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
