@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\VLSI.cpp" />
+    <Image Include="..\..\VLSI.bmp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{72D57549-5487-44B6-9DCD-3DA4F9DE2038}</ProjectGuid>
