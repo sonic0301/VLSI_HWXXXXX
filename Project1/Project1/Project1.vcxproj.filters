@@ -22,4 +22,9 @@
       <Filter>VLSI_HWXXXXXX</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\ncvlog.log">
+      <Filter>VLSI_HWXXXXXX</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
